@@ -10,6 +10,9 @@ __pycache__/
 .env
 .venv/
 
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
 # Ignore logs and databases
 *.log
 *.sqlite
