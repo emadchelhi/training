@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/emadchelhi/Desktop/git_repos/training/c++/some-basic-programs'
+relocations:     []
+...
